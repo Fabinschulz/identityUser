@@ -78,3 +78,6 @@ Substitua "NomeDaMigracao" pelo nome desejado para a migração.
 dotnet ef database update
 ```
 
+![image](https://github.com/user-attachments/assets/b2933d10-2a8e-49e0-9336-0a78d57fbc3e)
+
+
